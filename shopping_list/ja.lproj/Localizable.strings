@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  shopping_list
+
+  Created by Satoru on 2020/05/02.
+  Copyright © 2020 Satoru. All rights reserved.
+*/
+"title_selection" = "買い物リスト";
+
+"edit" = "編集";
+"done" = "完了";
+

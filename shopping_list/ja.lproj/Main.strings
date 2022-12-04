@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Add"; ObjectID = "EGV-ZY-s2P"; */
+"EGV-ZY-s2P.text" = "Add";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "FCr-ca-CAO"; */
+"FCr-ca-CAO.title" = "Item";
+
+/* Class = "UILabel"; text = "今日のお買い物"; ObjectID = "Fqb-Hd-sCk"; */
+"Fqb-Hd-sCk.text" = "今日のお買い物";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "HWD-2z-wZc"; */
+"HWD-2z-wZc.title" = "Item";
+
+/* Class = "UILabel"; text = "Item"; ObjectID = "Ja5-jZ-fvQ"; */
+"Ja5-jZ-fvQ.text" = "Item";
+
+/* Class = "UILabel"; text = "Add"; ObjectID = "O1Z-YX-MfV"; */
+"O1Z-YX-MfV.text" = "Add";
+
+/* Class = "UILabel"; text = "Start"; ObjectID = "Ty9-rn-tiQ"; */
+"Ty9-rn-tiQ.text" = "Start";
+
+/* Class = "UIButton"; normalTitle = "Stop"; ObjectID = "VGh-Mi-63I"; */
+"VGh-Mi-63I.normalTitle" = "Stop";
+
+/* Class = "UILabel"; text = "Add"; ObjectID = "dqd-um-lrc"; */
+"dqd-um-lrc.text" = "Add";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "fOE-l0-sBW"; */
+"fOE-l0-sBW.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "Item"; ObjectID = "iMr-xR-5p8"; */
+"iMr-xR-5p8.text" = "Item";
+
+/* Class = "UILabel"; text = "Item"; ObjectID = "jlj-CZ-lW5"; */
+"jlj-CZ-lW5.text" = "Item";

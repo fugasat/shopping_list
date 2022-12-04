@@ -1,0 +1,5 @@
+protocol ItemInputRequestObserver {
+    
+    func notify()
+
+}
